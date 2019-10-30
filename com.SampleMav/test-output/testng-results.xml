@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9974" started-at="2019-10-30T10:53:49Z" finished-at="2019-10-30T10:53:59Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="9974" started-at="2019-10-30T10:53:49Z" finished-at="2019-10-30T10:53:59Z">
+      <class name="com.MavenTry.com.SampleMav.FirstTestTry">
+        <test-method status="PASS" signature="try1()[pri:0, instance:com.MavenTry.com.SampleMav.FirstTestTry@55f3ddb1]" name="try1" duration-ms="9940" started-at="2019-10-30T10:53:49Z" finished-at="2019-10-30T10:53:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- try1 -->
+      </class> <!-- com.MavenTry.com.SampleMav.FirstTestTry -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
